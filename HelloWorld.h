@@ -11,7 +11,7 @@ using namespace std;
 
 class HelloWorld {
     int main(){
-        cout << "Hello world hai and yagel! "<< endl;
+        cout << "Hello world hai and yagel and yochay! "<< endl;
     }
 };
 
